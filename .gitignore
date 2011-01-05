@@ -1,7 +1,0 @@
-*_settings.py
-*.sqlite
-static/imgs/content/*
-*.swp
-*.swo
-*.pyc
-
